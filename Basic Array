@@ -5,7 +5,7 @@ int main()
     // array declare
 
     int arr [10];
-    cout<<"array created successfully" <<endl ;
+    cout<<"array created successfully" <<endl;
 
     // array initialize
 
